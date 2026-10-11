@@ -2,6 +2,8 @@
 
 <div align="center">drowning in a static, chaotic haze
 
-<div align="center">
-<a href="https://spotify.com/track/5C5gvDZsl6d8bh89URfKHr?si=5d00c15e0d854dfc)"><img src="https://shields.io" alt="Spotify"></a>
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/track/5C5gvDZsl6d8bh89URfKHr?si=b2326df6ab034fef">
+    <img src="https://kittinanx.com" alt="Spotify Scroll">
+  </a>
+</p>
