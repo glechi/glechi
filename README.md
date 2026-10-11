@@ -3,7 +3,4 @@
 <div align="center">drowning in a static, chaotic haze
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xx7cygo6abwrn6jfdl2oem3tse&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Live Badge">
-  </a>
-</p>
+[![Spotify](https://vercel.app)](https://open.spotify.com/track/5C5gvDZsl6d8bh89URfKHr?si=f0058c36f39a429a) 
