@@ -1,4 +1,4 @@
-<img src="https://github.com/glechi/glechi/blob/main/__janka-removebg-preview.png?raw=true">
+<img src="https://github.com/glechi/glechi/blob/main/zanka%20aaaaaaaarghh.png?raw=true">
 
 <div align="center">drowning in a static, chaotic haze
 
