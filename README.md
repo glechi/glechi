@@ -2,7 +2,7 @@
 
 <div align="center">drowning in a static, chaotic haze
 
-<img src="https://github.com/glechi/glechi/blob/main/ribbon.png?raw=true">
+<img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true">
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
