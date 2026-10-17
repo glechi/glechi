@@ -2,7 +2,8 @@
 
 <div align="center">drowning in a static, chaotic gaze
 
-<img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true">
+
+<a href="https://aoironiro.carrd.co/" rel="nofollow">carrd</a>
 
 
 <p align="center">
