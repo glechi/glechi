@@ -6,7 +6,7 @@
   <a href="https://aoironiro.carrd.co/"> 
     <img src="https://github.com/glechi/glechi/blob/main/fsh.png?raw=true alt="carrd" width="100"> 
 
-<img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true"  width="100">
+<img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true"  width="300">
 
 
 <p align="center">
