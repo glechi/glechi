@@ -2,7 +2,7 @@
 
 <div align="center">drowning in a static, chaotic haze
 
-<a href="https://aoiro.atabook.org//">  <div align="center" alt="atabook> 
+<a href="https://aoiro.atabook.org//">  <div align="center" alt="[atabook](https://aoiro.atabook.org//"> 
 
 <img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true">
 
