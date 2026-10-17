@@ -3,8 +3,8 @@
 <div align="center">drowning in a static, chaotic haze
 
 <p align="center">
-  <a href="https://aoiro.atabook.org//"> 
-    <img src="https://github.com/glechi/glechi/blob/main/fsh.png?raw=true alt="ata" width="50"> 
+  <a href="https://aoironiro.carrd.co/"> 
+    <img src="https://github.com/glechi/glechi/blob/main/fsh.png?raw=true alt="carrd" width="100"> 
 
 <img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true">
 
