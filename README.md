@@ -3,7 +3,7 @@
 <div align="center">drowning in a static, chaotic gaze
 
 
-<a href="https://aoironiro.carrd.co/" rel="nofollow">carrd</a>
+<a href="https://aoironiro.carrd.co/" rel="nofollow">carrd.co</a> ☆*⁀‧₊˚ <a href="https://aoiro.atabook.org/" rel="nofollow">atabook</a>
 
 
 <p align="center">
