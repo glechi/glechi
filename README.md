@@ -1,12 +1,8 @@
 <img src="https://github.com/glechi/glechi/blob/main/zanka%20aaaaaaaarghh.png?raw=true">
 
-<div align="center">read my card
+<div align="center">drowning in a static, chaotic gaze
 
-<p align="center">
-  <a href="https://aoironiro.carrd.co/"> 
-    <img src="https://github.com/glechi/glechi/blob/main/fsh.png?raw=true alt="carrd" width="100"> 
-
-<img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true" 
+<img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true">
 
 
 <p align="center">
