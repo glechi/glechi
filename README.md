@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://aoiro.atabook.org//"> 
-    <img src="https://github.com/glechi/glechi/blob/main/fsh.png?raw=true alt="ata" width="140"> 
+    <img src="https://github.com/glechi/glechi/blob/main/fsh.png?raw=true alt="ata" width="50"> 
 
 <img src="https://github.com/glechi/glechi/blob/main/ocean.webp?raw=true">
 
